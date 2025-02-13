@@ -41,7 +41,7 @@
 [28.846848, "o", "f"]
 [28.918989, "o", "g"]
 [29.383, "o", "\r\n"]
-[29.383129, "o", "'grfg' is wrong answer ;(. Correct answer was '4'.\r\n Let's try again, Sam!\r\nQuestion: 90 3\r\nYour answer: "]
+[29.383129, "o", "'grfg' is wrong answer ;(. Correct answer was '4'.\r\n Let's try again, {name}!\r\nQuestion: 90 3\r\nYour answer: "]
 [34.998752, "o", "3"]
 [36.455245, "o", "\r\n"]
 [36.455386, "o", "Correct!\r\nQuestion: 56 90\r\nYour answer: "]

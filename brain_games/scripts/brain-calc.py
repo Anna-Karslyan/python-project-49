@@ -14,11 +14,11 @@ def ask(name):
             print('Correct!')
             return True
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{eval(exp)}'.\n Let's try again, Sam!")
+            print(f"'{answer}' is wrong answer ;(. Correct answer was '{eval(exp)}'.\n Let's try again, {name}!")
             return False
         
     except:
-        print(f"'{answer}' is wrong answer ;(. Correct answer was '{eval(exp)}'.\n Let's try again, Sam!")
+        print(f"'{answer}' is wrong answer ;(. Correct answer was '{eval(exp)}'.\n Let's try again, {name}!")
         return False
 
 def main():
